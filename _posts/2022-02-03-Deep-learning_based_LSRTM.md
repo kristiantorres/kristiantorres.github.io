@@ -3,7 +3,7 @@ title: "Deep-learning-based least-squares migration"
 layout: post
 date: 2016-01-23 22:10
 tag: deep-lsrtm
-image: https://kristiantorres.github.io/candidacy/assets/images/deep-lsrtm_image2.png
+image: https://kristiantorres.github.io/assets/images/deep-lsrtm_image2.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
