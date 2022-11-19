@@ -28,5 +28,5 @@ layout: page
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul> -->
 
-<center> <h2>Recent news</h2> </center>
+<center> <h2>Updates</h2> </center>
 * Oct, 2022: I passed my PhD candicay exam!	:beers:

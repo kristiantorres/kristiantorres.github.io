@@ -22,3 +22,10 @@
 @import "components/side-by-side";
 @import "components/social-links";
 @import "components/spoiler";
+
+img.emoji {
+    display: inline;
+    height: 2.0em;
+    width: 2.0em;
+    margin-bottom: 0.0em;
+}
