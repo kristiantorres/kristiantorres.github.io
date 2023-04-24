@@ -37,5 +37,5 @@ A simple implementation of frequency-wavenumber filtering to get rid of strong b
 ![](images/rtm_backs-1.png){width=100%}
 
 
-### <a href="https://pantheon.ufrj.br/bitstream/11422/14079/1/KristianDavidTorresBautista-min.pdf" target="_blank">Master's thesis (in Portuguese)</a>.
+### <a href="https://pantheon.ufrj.br/bitstream/11422/14079/1/KristianDavidTorresBautista-min.pdf" target="_blank">Master's thesis (in Portuguese)</a>
 ![](images/sigsbee2a.png){width=100%}
