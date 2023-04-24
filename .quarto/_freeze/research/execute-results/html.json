@@ -1,0 +1,15 @@
+{
+  "hash": "110502601589c07614db7455fc23be6c",
+  "result": {
+    "markdown": "---\ntitle: \"Research\"\nfrom: markdown+emoji\n---\n\n### **[Deep-learning-based least-squares migration](resources/Torres_Deep-LSRTM_2022.pdf){target=\"_blank\"}**\nLeveraging learned iterative reconstruction for LSRTM of synthetic and real seismic data.\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nfrom IPython.display import IFrame as Image\nImage(\"images/full_results.pdf\", width=1200, height=600)\n```\n\n::: {.cell-output .cell-output-display execution_count=4}\n```{=html}\n\n        <iframe\n            width=\"1200\"\n            height=\"600\"\n            src=\"images/full_results.pdf\"\n            frameborder=\"0\"\n            allowfullscreen\n            \n        ></iframe>\n        \n```\n:::\n:::\n\n\n### <a href=\"https://kristiantorres.github.io/RWIQuarto/toy_rwigradient.html\" target=\"_blank\">Reflection waveform inversion</a>\nSpetial flavor of FWI that exploits the tenuous low-wavenumber :rabbit: reflection kernel to recover a macro velicity model from reflection data. \n\n### [A deep-learning inverse Hessian preconditioning](resources/EAGE_2023_preconditioning.pdf){target=\"_blank\"}\nA network trained from migrated and re-migrated data avoids dependance on unavailable ground-truth labels to roughly approximate the inverse Hessian and accelerate iterative LSM.\n\n### [Seismic inversion with nullspace networks](resources/Geophysical_prospecting_Torres_Sacchi_2022-3.pdf){target=\"_blank\"}\nDeep neural networks explore the null space of the forward operator, enabling data-consistent and uncertainty-aware high resolution reconstruction of post-stack data.   \n\n### <a href=\"resources/Reducing_the_RTM_backscattering_noise_via_F_KWD.pdf\" target=\"_blank\">Reducing RTM artefacts via $f-k$ domain wavefield decomposition</a>\nA simple implementation of frequency-wavenumber filtering to get rid of strong backscattering noise present in RTM sections.  \n\n### [Plane-wave FD modelling](https://nbviewer.org/github/kristiantorres/plane_wave/blob/master/Plane_wave/plane_wave_modelling.ipynb){target=\"_blank\"}\nExamples with Devito for acoustic and elastic media.\n\n### <a href=\"https://pantheon.ufrj.br/bitstream/11422/14079/1/KristianDavidTorresBautista-min.pdf\" target=\"_blank\">Master's thesis (in Portuguese)</a>.\n\n",
+    "supporting": [
+      "research_files"
+    ],
+    "filters": [],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js\" integrity=\"sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==\" crossorigin=\"anonymous\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js\" integrity=\"sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==\" crossorigin=\"anonymous\"></script>\n<script type=\"application/javascript\">define('jquery', [],function() {return window.jQuery;})</script>\n"
+      ]
+    }
+  }
+}

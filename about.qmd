@@ -1,0 +1,30 @@
+---
+title: About
+from: markdown+emoji
+---
+<!-- ![Profile Image](kristian_pro.jpeg) -->
+
+I am currently a Ph.D. student at the University of Alberta. I conduct research under the guidance of <a href="https://sites.ualberta.ca/~msacchi/" target="_blank">Prof. Mauricio Sacchi</a> that focuses on developing deep-learning tools for solving inverse problems in seismic imaging and signal processing.
+
+Before coming to the University of Alberta, I received a B.S. (2015) in geophysical engineering from Simon Bolivar University and an M.S. (2019) in computational geophysics from the Federal University of Rio de Janeiro.
+
+My current research topics include:
+
+* Inverse problems
+* Deep learning and scientific machine learning
+* Seismic imaging and full-waveform inversion
+* Signal processing
+* HPC
+
+## Updates
+* Apr, 2023: Our paper on nullspace networks for reflectivity inversion was accepted for publication on <a href="https://onlinelibrary.wiley.com/journal/" target="_blank">Geophysical Prospecting</a>. :fire:
+
+* Mar, 2023: I accepted an internship offer from Halliburton Landmark. I will be workig as a Geophysics intern in spring/summer 2023. :office:
+
+* Feb, 2023: I have been awarded the <a href="https://www.ualberta.ca/graduate-studies/awards-and-funding/scholarships/ab-innovates/ai-graduate-student-scholarship.html" target="_blank">Alberta Innovates Scholarship</a>. :muscle: 
+
+* Feb, 2023: I gave a talk at TGS on "Deep learning applications for seismic imaging".
+
+* Jan, 2023: I gave several presentations at [SAIG sponsors meeting](https://saig.physics.ualberta.ca/doku.php?id=publications:annualreports:saig_23p){target="_blank"}.
+
+* Oct, 2022: I passed my PhD candicay exam!	:beers:

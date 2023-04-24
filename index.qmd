@@ -1,0 +1,29 @@
+---
+title: "Kristian Torres Bautista"
+image: images/kristian_profile.jpeg
+resources: resources/KristianTorres_CV_Apr2022_long.pdf
+about:
+    template: jolla
+    image-shape: round
+    links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kristian-torres/
+      target: _blank
+      icon: "linkedin"
+    - text: GitHub
+      href: https://github.com/kristiantorres
+      target: _blank
+      icon: "github"
+    - text: Email
+      href: mailto:torresba@ualberta.ca
+      target: _blank
+      icon: "envelope"
+    - text: CV
+      href: resources/KristianTorres_CV_Apr2022_long.pdf
+      target: _blank
+      icon: file-text
+    id: ppc
+---
+:::{#ppc}
+PhD candidate in Geophysics @ the University of Alberta
+:::

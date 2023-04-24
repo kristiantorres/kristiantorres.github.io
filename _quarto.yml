@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+from: markdown+emoji
+website:
+  page-footer:
+    center: '© 2023, Kristian Torres :lobster:'
+  title: ""
+  navbar:
+    # logo: k_logo.png
+    background: secondary
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+  favicon: "images/k_logo.png"
+format:
+  html:
+    theme: 
+      light: [flatly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+
+

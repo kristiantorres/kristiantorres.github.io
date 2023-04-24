@@ -1,0 +1,41 @@
+---
+title: "Research"
+from: markdown+emoji
+toc: true
+#link-external-icon: true
+---
+### **[Deep-learning-based least-squares migration](resources/Torres_Deep-LSRTM_2022.pdf){target="_blank"}**
+Leveraging learned iterative reconstruction for LSRTM of synthetic and real seismic data.
+![](images/lsrtm_gom-1.png){width=100%}
+
+
+### <a href="https://kristiantorres.github.io/RWIQuarto/toy_rwigradient.html" target="_blank">Reflection waveform inversion</a>
+Spetial flavor of FWI that exploits the tenuous low-wavenumber :rabbit: reflection kernel to recover a macro velicity model from reflection data. 
+
+::: {layout-nrow=1}
+![](images/RWI_preview.png){width=50%}
+![](images/fig-model-output-1.png){width=40%}
+:::
+
+### [Seismic inversion with nullspace networks](resources/Geophysical_prospecting_Torres_Sacchi_2022-3.pdf){target="_blank"}
+Deep neural networks explore the null space of the forward operator, enabling data-consistent and uncertainty-aware high resolution reconstruction of post-stack data.   
+![](images/results_nullspace-1.png){width=100%}
+
+
+### [A deep-learning inverse Hessian preconditioning](resources/EAGE_2023_preconditioning.pdf){target="_blank"}
+A network trained from migrated and re-migrated data avoids dependance on unavailable ground-truth labels to roughly approximate the inverse Hessian and accelerate iterative LSM.
+![](images/hessian_website.jpg){width=100%}
+
+
+### [Plane-wave FD modelling](https://nbviewer.org/github/kristiantorres/plane_wave/blob/master/Plane_wave/plane_wave_modelling.ipynb){target="_blank"}
+Examples with acoustic and elastic media.
+![](images/planewave-1.png){width=100%}
+
+
+### <a href="resources/Reducing_the_RTM_backscattering_noise_via_F_KWD.pdf" target="_blank">Reducing RTM artefacts via $f-k$ domain wavefield decomposition</a>
+A simple implementation of frequency-wavenumber filtering to get rid of strong backscattering noise present in RTM sections.  
+![](images/rtm_backs-1.png){width=100%}
+
+
+### <a href="https://pantheon.ufrj.br/bitstream/11422/14079/1/KristianDavidTorresBautista-min.pdf" target="_blank">Master's thesis (in Portuguese)</a>.
+![](images/sigsbee2a.png){width=100%}
