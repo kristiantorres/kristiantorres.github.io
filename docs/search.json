@@ -32,7 +32,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Deep-learning-based least-squares migration\nLeveraging learned iterative reconstruction for LSRTM of synthetic and real seismic data. \n\n\nReflection waveform inversion\nSpetial flavor of FWI that exploits the tenuous low-wavenumber 🐰 reflection kernel to recover a macro velicity model from reflection data.\n\n\n\n \n\n\n\n\n\nSeismic inversion with nullspace networks\nDeep neural networks explore the null space of the forward operator, enabling data-consistent and uncertainty-aware high resolution reconstruction of post-stack data.\n\n\n\nA deep-learning inverse Hessian preconditioning\nA network trained from migrated and re-migrated data avoids dependance on unavailable ground-truth labels to roughly approximate the inverse Hessian and accelerate iterative LSM. \n\n\nPlane-wave FD modelling\nExamples with acoustic and elastic media. \n\n\nReducing RTM artefacts via \\(f-k\\) domain wavefield decomposition\nA simple implementation of frequency-wavenumber filtering to get rid of strong backscattering noise present in RTM sections.\n\n\n\nMaster’s thesis (in Portuguese)"
+    "text": "Deep-learning-based least-squares migration\nLeveraging learned iterative reconstruction for LSRTM of synthetic and real seismic data. \n\n\nReflection waveform inversion\nSpetial flavor of FWI that exploits the tenuous low-wavenumber 🐰 reflection kernel to recover a macro velicity model from reflection data.\n\n\n\n \n\n\n\n\n\nSeismic inversion with nullspace networks\nDeep neural networks explore the null space of the forward operator, enabling data-consistent and uncertainty-aware high resolution reconstruction of post-stack data.\n\n\n\nA deep-learning inverse Hessian preconditioning\nA network trained from migrated and re-migrated data avoids dependance on unavailable ground-truth labels to roughly approximate the inverse Hessian and accelerate iterative LSM. \n\n\nPlane-wave FD modelling\nExamples with acoustic and elastic media. \n\n\nReducing RTM artefacts via \\(f-k\\) domain wavefield decomposition\nA simple implementation of frequency-wavenumber filtering to get rid of strong backscattering noise present in RTM sections.\n\n\n\nMaster’s thesis (in Portuguese)\nLeast-squares migration and full-waveform inversion in the time domain via adjoint-state methods."
   },
   {
     "objectID": "about.html#updates",
@@ -40,5 +40,12 @@
     "title": "About",
     "section": "Updates",
     "text": "Updates\n\nApr, 2023: Our paper on nullspace networks for reflectivity inversion was accepted for publication on Geophysical Prospecting. 🔥\nMar, 2023: I accepted an internship offer from Halliburton Landmark. I will be workig as a Geophysics intern in spring/summer 2023. 🏢\nFeb, 2023: I have been awarded the Alberta Innovates Scholarship. 💪\nFeb, 2023: I gave a talk at TGS on “Deep learning applications for seismic imaging”.\nJan, 2023: I gave several presentations at SAIG sponsors meeting.\nOct, 2022: I passed my PhD candicay exam! 🍻"
+  },
+  {
+    "objectID": "research.html#this-title-has-no-links",
+    "href": "research.html#this-title-has-no-links",
+    "title": "Research",
+    "section": "This title has no links",
+    "text": "This title has no links\nadssadasdadssadasdadssadasdadssadasdadssadasdadssadasd adssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasd adssadasdadssadasdadssadasdadssadasdadssadasdadssadasd adssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasd\nadssadasdadssadasdadssadasdadssadasdadssadasdadssadasd adssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasdadssadasd"
   }
 ]
