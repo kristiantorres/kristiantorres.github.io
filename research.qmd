@@ -9,7 +9,7 @@ Leveraging learned iterative reconstruction for LSRTM of synthetic and real seis
 ![](images/lsrtm_gom-1.png){width=100%}
 
 
-### [Reflection waveform inversion]("https://kristiantorres.github.io/RWIQuarto/toy_rwigradient.html"){target="_blank"}
+### [Reflection waveform inversion](https://kristiantorres.github.io/RWIQuarto/toy_rwigradient.html){target="_blank"}
 Spetial flavor of FWI that exploits the tenuous low-wavenumber :rabbit: reflection kernel to recover a macro velicity model from reflection data. 
 
 ::: {layout-nrow=1}
@@ -32,11 +32,11 @@ Examples with acoustic and elastic media.
 ![](images/planewave-1.png){width=100%}
 
 
-### [Reducing RTM artefacts via $f-k$ domain wavefield decomposition]("resources/Reducing_the_RTM_backscattering_noise_via_F_KWD.pdf") {target="_blank"}
+### [Reducing RTM artefacts via $f-k$ domain wavefield decomposition](resources/Reducing_the_RTM_backscattering_noise_via_F_KWD.pdf) {target="_blank"}
 A simple implementation of frequency-wavenumber filtering to get rid of strong backscattering noise present in RTM sections.  
 ![](images/rtm_backs-1.png){width=100%}
 
 
-### [Master's thesis (in Portuguese)]("https://pantheon.ufrj.br/bitstream/11422/14079/1/KristianDavidTorresBautista-min.pdf"){target="_blank"}
+### [Master's thesis (in Portuguese)](https://pantheon.ufrj.br/bitstream/11422/14079/1/KristianDavidTorresBautista-min.pdf){target="_blank"}
 Least-squares migration and full-waveform inversion in the time domain via adjoint-state methods.
 ![](images/sigsbee2a.png){width=100%}
