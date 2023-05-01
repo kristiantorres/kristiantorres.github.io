@@ -4,9 +4,9 @@ from: markdown+emoji
 ---
 <!-- ![Profile Image](kristian_pro.jpeg) -->
 
-I am currently a Ph.D. student at the University of Alberta. I conduct research under the guidance of <a href="https://sites.ualberta.ca/~msacchi/" target="_blank">Prof. Mauricio Sacchi</a> that focuses on developing deep-learning tools for solving inverse problems in seismic imaging and signal processing.
+I am currently a Ph.D. candidate in Geophysics at the University of Alberta (UofA). I conduct research under the guidance of <a href="https://sites.ualberta.ca/~msacchi/" target="_blank">Prof. Mauricio Sacchi</a> that focuses on developing deep-learning tools for solving inverse problems in seismic imaging and signal processing.
 
-Before coming to the University of Alberta, I received a B.S. (2015) in geophysical engineering from Simon Bolivar University and an M.S. (2019) in computational geophysics from the Federal University of Rio de Janeiro.
+Before coming to the UofA :canada: , I received a B.S. (2015) in geophysical engineering from Simon Bolivar University :venezuela: and an M.S. (2019) in computational geophysics from the Federal University of Rio de Janeiro :brazil:.
 
 My current research topics include:
 
