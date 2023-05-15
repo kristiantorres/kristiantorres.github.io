@@ -27,7 +27,7 @@ A network trained from migrated and re-migrated data avoids dependance on unavai
 ![](images/hessian_website.jpg){width=100%}
 
 
-### [Plane-wave FD modelling](https://nbviewer.org/github/kristiantorres/plane_wave/blob/master/Plane_wave/plane_wave_modelling.ipynb){target="_blank"}
+### [Plane-wave FD modelling (imaging/plane wave CIGs coming soon!)](https://nbviewer.org/github/kristiantorres/plane_wave/blob/master/Plane_wave/plane_wave_modelling.ipynb){target="_blank"}
 Examples with acoustic and elastic media.
 ![](images/planewave-1.png){width=100%}
 

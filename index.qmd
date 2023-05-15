@@ -1,7 +1,7 @@
 ---
 title: "Kristian Torres Bautista"
 image: images/kristian_profile.jpeg
-resources: resources/KristianTorres_CV_Apr2022_long.pdf
+resources: resources/KristianTorres_CV_May2023_long.pdf
 about:
     template: jolla
     image-shape: round
@@ -19,7 +19,7 @@ about:
       target: _blank
       icon: "envelope"
     - text: CV
-      href: resources/KristianTorres_CV_Apr2022_long.pdf
+      href: resources/KristianTorres_CV_May2023_long.pdf
       target: _blank
       icon: file-text
     id: ppc
