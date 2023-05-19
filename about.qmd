@@ -17,7 +17,9 @@ My current research topics include:
 * HPC
 
 ## Updates
-* Apr, 2023: Our paper on nullspace networks for reflectivity inversion was accepted for publication on <a href="https://onlinelibrary.wiley.com/journal/" target="_blank">Geophysical Prospecting</a>. :fire:
+* May, 2023: I chaired the machine learning session at the Geoconvention this year :chair:. I also presented my recent work on deep learning synthetizers for LSM in the seismic imaging and FWI session.
+
+* Apr, 2023: Our paper on nullspace networks for reflectivity inversion was accepted for publication on <a href="https://onlinelibrary-wiley-com.login.ezproxy.library.ualberta.ca/doi/abs/10.1111/1365-2478.13366" target="_blank">Geophysical Prospecting</a>. :fire:
 
 * Mar, 2023: I accepted an internship offer from Halliburton Landmark. I will be workig as a Geophysics intern in spring/summer 2023. :office:
 
