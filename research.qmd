@@ -17,7 +17,7 @@ Spetial flavor of FWI that exploits the tenuous low-wavenumber :rabbit: reflecti
 ![](images/fig-model-output-1.png){width=40%}
 :::
 
-### [Seismic inversion with nullspace networks](resources/Geophysical_prospecting_Torres_Sacchi_2022-3.pdf){target="_blank"}
+### [Seismic inversion with nullspace networks](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2478.13366){target="_blank"}
 Deep neural networks explore the null space of the forward operator, enabling data-consistent and uncertainty-aware high resolution reconstruction of post-stack data.   
 ![](images/results_nullspace-1.png){width=100%}
 
