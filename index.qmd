@@ -22,6 +22,10 @@ about:
       href: resources/KristianTorres_CV_May2023_long.pdf
       target: _blank
       icon: file-text
+    - text: Google Scholar
+      href: https://scholar.google.ca/citations?user=5dEyJ9_cJcQC&hl=en&oi=ao
+      target: _blank
+      icon: "mortarboard"
     id: ppc
 ---
 :::{#ppc}

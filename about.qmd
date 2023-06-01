@@ -17,7 +17,9 @@ My current research topics include:
 * HPC
 
 ## Updates
-* May, 2023: I chaired the machine learning session at the Geoconvention this year :chair:. I also presented  recent work on deep learning synthesizers for LSM in the seismic imaging and FWI session.
+* Jun, 2023: I will attend and present at the EAGE 84th annual meeting :airplane:.  
+
+* May, 2023: :chair: I chaired the machine learning session at the Geoconvention this year . I also presented  recent work on deep learning synthesizers for LSM in the seismic imaging and FWI session.
 
 * Apr, 2023: Our paper on nullspace networks for reflectivity inversion was accepted for publication on <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.13366" target="_blank">Geophysical Prospecting</a>. :fire:
 
