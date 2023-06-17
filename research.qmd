@@ -9,6 +9,11 @@ Leveraging learned iterative reconstruction for LSRTM of synthetic and real seis
 ![](images/lsrtm_gom-1.png){width=100%}
 
 
+### [Seismic inversion with nullspace networks](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2478.13366){target="_blank"}
+Deep neural networks explore the null space of the forward operator, enabling data-consistent and uncertainty-aware high resolution reconstruction of post-stack data.   
+![](images/results_nullspace-1.png){width=100%}
+
+
 ### [Reflection waveform inversion](https://kristiantorres.github.io/RWIQuarto/toy_rwigradient.html){target="_blank"}
 Spetial flavor of FWI that exploits the tenuous low-wavenumber :rabbit: reflection kernel to recover a macro velicity model from reflection data. 
 
@@ -17,18 +22,21 @@ Spetial flavor of FWI that exploits the tenuous low-wavenumber :rabbit: reflecti
 ![](images/fig-model-output-1.png){width=40%}
 :::
 
-### [Seismic inversion with nullspace networks](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2478.13366){target="_blank"}
-Deep neural networks explore the null space of the forward operator, enabling data-consistent and uncertainty-aware high resolution reconstruction of post-stack data.   
-![](images/results_nullspace-1.png){width=100%}
 
-
-### [A deep-learning inverse Hessian preconditioning](resources/EAGE_2023_preconditioning.pdf){target="_blank"}
-A network trained from migrated and re-migrated data avoids dependance on unavailable ground-truth labels to roughly approximate the inverse Hessian and accelerate iterative LSM.
+### Imaging with [Right](resources/EAGE_2023_preconditioning.pdf){target="_blank"} and [left](resources/SBGf2023.pdf){target="_blank"} deep-learning preconditioniners
+Accelerating seismimc imaging through deep neural networks trained from migrated and re-migrated data/models to avoid dependance on unavailable ground-truth labels while roughly approximate the inverse Hessian and data resolution matrices.
 ![](images/hessian_website.jpg){width=100%}
+![](images/marmo_data.jpg){width=60%}
 
 
-### [Plane-wave FD modelling (imaging/plane wave CIGs coming soon!)](https://nbviewer.org/github/kristiantorres/plane_wave/blob/master/Plane_wave/plane_wave_modelling.ipynb){target="_blank"}
-Examples with acoustic and elastic media.
+### [Extended-domain LSRTM](https://github.com/kristiantorres/Siawe){target="_blank"}
+I developed a Python/Fortran package focused on extended-domain (e.g., subsurface-offset, angle, time-shift, shot and receiver) imaing and inversion.   
+<!-- ![](images/marmocig.png){width=50%} -->
+![](images/marmocig2.png){width=50%}
+
+
+### [Plane-wave FD](https://nbviewer.org/github/kristiantorres/plane_wave/blob/master/Plane_wave/plane_wave_modelling.ipynb){target="_blank"}
+Examples with acoustic and elastic media. Imaging/plane wave CIGs coming soon!
 ![](images/planewave-1.png){width=100%}
 
 
