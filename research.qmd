@@ -15,7 +15,7 @@ Deep neural networks explore the null space of the forward operator, enabling da
 
 
 ### [Sparse vector reflectivity FWLSRTM](resources/Vector_reflectivity_LSRTM.pdf){target="_blank"}
-I developed and showcased Sparse Full-wavefield LSRTM, which redefines the variable-density acoustic wave equation using vector reflectivity. This method efficiently captures a wide array of seismic events, including refractions, diving waves, and reflections, ensuring a superior fit for complex datasets and delivering high-resolution outcomes via sparse pre-stack seismic inversion. 
+I developed and showcased Sparse Full-wavefield LSRTM, which redefines the variable-density acoustic wave equation using vector reflectivity. This method efficiently captures a broader range of seismic events, ensuring a superior fit for complex datasets and delivering high-resolution outcomes via sparse pre-stack seismic inversion. 
 ![](images/vr_wavefields.png){width=100%}
 
 
