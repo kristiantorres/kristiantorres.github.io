@@ -17,6 +17,8 @@ My current research topics include:
 * HPC
 
 ## Recent updates
+* Jan, 2024: I gave several presentations on Reflection Waveform Inversion, Vector reflectivity Imaging and Deep-learning-based Seismic Inversion at [SAIG sponsors meeting](https://saig.physics.ualberta.ca/doku.php?id=publications:annualreports:saig_24p){target="_blank"}.
+
 * Jun, 2023: I will attend and present at the EAGE 84th annual meeting :airplane::austria:.  
 
 * May, 2023: :chair: I chaired the machine learning session at the Geoconvention this year . I also presented  recent work on deep learning synthesizers for LSM in the seismic imaging and FWI session.
