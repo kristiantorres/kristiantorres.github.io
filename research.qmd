@@ -29,7 +29,7 @@ Special flavor of FWI that exploits the tenuous low-wavenumber :rabbit: reflecti
 
 
 ### Imaging with [Right](resources/EAGE_2023_preconditioning.pdf){target="_blank"} and [left](resources/SBGf2023.pdf){target="_blank"} deep-learning preconditioniners
-Accelerating seismimc imaging through deep neural networks trained from migrated and re-migrated data/models to avoid dependance on unavailable ground-truth labels while roughly approximate the inverse Hessian and data resolution matrices.
+Accelerating seismimc imaging through deep neural networks trained from migrated and re-migrated data/models to avoid dependance on unavailable ground-truth labels while roughly approximating the inverse Hessian and data resolution matrices.
 ![](images/hessian_website.jpg){width=100%}
 ![](images/marmo_data.jpg){width=60%}
 
