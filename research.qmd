@@ -10,7 +10,7 @@ Leveraging learned iterative reconstruction for LSRTM of synthetic and real seis
 
 
 ### [Seismic inversion with nullspace networks](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2478.13366){target="_blank"}
-Deep neural networks explore the null space of the forward operator, enabling data-consistent and uncertainty-aware high resolution reconstruction of post-stack data.   
+Deep neural networks explore the null space of the forward operator, enabling data-consistent and uncertainty-aware high resolution reconstruction. Below is an example with real post-stack data.   
 ![](images/results_nullspace-1.png){width=100%}
 
 
@@ -20,7 +20,7 @@ I developed and showcased Sparse Full-wavefield LSRTM, which redefines the varia
 
 
 ### [Reflection waveform inversion](https://kristiantorres.github.io/RWIQuarto/toy_rwigradient.html){target="_blank"}
-Spetial flavor of FWI that exploits the tenuous low-wavenumber :rabbit: reflection kernel to recover a macro velicity model from reflection data. 
+Special flavor of FWI that exploits the tenuous low-wavenumber :rabbit: reflection kernel to recover a macro velicity model from reflection data. 
 
 ::: {layout-nrow=1}
 ![](images/RWI_preview.png){width=50%}
