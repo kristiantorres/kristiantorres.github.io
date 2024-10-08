@@ -4,11 +4,11 @@ from: markdown+emoji
 ---
 <!-- ![Profile Image](kristian_pro.jpeg) -->
 
-I am currently a Ph.D. candidate in Geophysics at the University of Alberta (UofA). I conduct research under the guidance of <a href="https://sites.ualberta.ca/~msacchi/" target="_blank">Prof. Mauricio Sacchi</a> that focuses on developing deep-learning tools for solving inverse problems in seismic imaging and signal processing.
+I am a research geophysicist at <a href="https://dug.com/" target="_blank">DUG</a>, specializing in Full-Waveform Inversion (FWI). Previously, I completed my Ph.D. in Geophysics at the University of Alberta (UofA) :canada:, where I conducted research under the guidance of <a href="https://sites.ualberta.ca/~msacchi/" target="_blank">Prof. Mauricio Sacchi</a>. My Ph.D. research focused on developing deep-learning tools for solving inverse problems in seismic imaging and signal processing.
 
-Before coming to the UofA :canada: , I received a B.S. (2015) in geophysical engineering from Simon Bolivar University :venezuela: and an M.S. (2019) in computational geophysics from the Federal University of Rio de Janeiro :brazil:.
+Before finishing my Ph.D. and joining DUG, I earned a B.S. (2015) in geophysical engineering from Simon Bolivar University :venezuela: and an M.S. (2019) in computational geophysics from the Federal University of Rio de Janeiro :brazil:.
 
-My current research topics include:
+My expertise includes:
 
 * Inverse problems
 * Deep learning and scientific machine learning
@@ -17,20 +17,28 @@ My current research topics include:
 * HPC
 
 ## Recent updates
-* Jan, 2024: I gave several presentations on Reflection Waveform Inversion, Vector reflectivity Imaging and Deep-learning-based Seismic Inversion at [SAIG sponsors meeting](https://saig.physics.ualberta.ca/doku.php?id=publications:annualreports:saig_24p){target="_blank"}.
+* Oct, 2024: Our abstract on Vector Reflectivity Inversion with Full-Wavefield LSRTM and Sparse Regularization was accepted as an oral talk at the [Third EAGE Conference on Seismic Inversion](https://eage.eventsair.com/QuickEventWebsitePortal/seismic-inversion-2024/tp/Agenda/AgendaItemDetail?id=76c1ddb4-cc41-4391-ac2e-b22cb3c68ee1) :it:
 
-* Jun, 2023: I will attend and present at the EAGE 84th annual meeting :airplane::austria:.  
+* Aug, 2024: I joined DUG as a research geophysicist :man_technologist:
 
-* May, 2023: :chair: I chaired the machine learning session at the Geoconvention this year . I also presented  recent work on deep learning synthesizers for LSM in the seismic imaging and FWI session.
+* Jul, 2024: I successfully defended my Ph.D. thesis :weight_lifting_man:
 
-* Apr, 2023: Our paper on nullspace networks for reflectivity inversion was accepted for publication on <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.13366" target="_blank">Geophysical Prospecting</a>. :fire:
+* Jun, 2024: I gave a talk on [full-wavefield LSRTM using vector reflectivity with sparse regularization](https://www.earthdoc.org/content/papers/10.3997/2214-4609.2024101729) at the EAGE annual meeting :norway:
+
+* Jan, 2024: I gave several presentations on Reflection Waveform Inversion, Vector reflectivity Imaging and Deep-learning-based Seismic Inversion at [SAIG sponsors meeting](https://saig.physics.ualberta.ca/doku.php?id=publications:annualreports:saig_24p){target="_blank"}
+
+* Jun, 2023: I will attend and present at the EAGE 84th annual meeting :airplane::austria:
+
+* May, 2023: :chair: I chaired the machine learning session at the Geoconvention this year . I also presented  recent work on deep learning synthesizers for LSM in the seismic imaging and FWI session
+
+* Apr, 2023: Our paper on nullspace networks for reflectivity inversion was accepted for publication on <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.13366" target="_blank">Geophysical Prospecting</a> :fire: 
 
 * Mar, 2023: I accepted an internship offer from Halliburton Landmark. I will be workig as a Geophysics intern in spring/summer 2023. :office:
 
-* Feb, 2023: I have been awarded the <a href="https://www.ualberta.ca/graduate-studies/awards-and-funding/scholarships/ab-innovates/ai-graduate-student-scholarship.html" target="_blank">Alberta Innovates Scholarship</a>. :muscle: 
+* Feb, 2023: I have been awarded the <a href="https://www.ualberta.ca/graduate-studies/awards-and-funding/scholarships/ab-innovates/ai-graduate-student-scholarship.html" target="_blank">Alberta Innovates Scholarship</a> :muscle:
 
-* Feb, 2023: I gave a talk at TGS on "Deep learning applications for seismic imaging".
+* Feb, 2023: I gave a talk at TGS on "Deep learning applications for seismic imaging"
 
-* Jan, 2023: I gave several presentations at [SAIG sponsors meeting](https://saig.physics.ualberta.ca/doku.php?id=publications:annualreports:saig_23p){target="_blank"}.
+* Jan, 2023: I gave several presentations at [SAIG sponsors meeting](https://saig.physics.ualberta.ca/doku.php?id=publications:annualreports:saig_23p){target="_blank"}
 
 * Oct, 2022: I passed my PhD candicay exam!	:beers:

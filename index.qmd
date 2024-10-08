@@ -29,5 +29,5 @@ about:
     id: ppc
 ---
 :::{#ppc}
-PhD candidate in Geophysics @ the University of Alberta
+Research Geophysicist, Ph.D.
 :::

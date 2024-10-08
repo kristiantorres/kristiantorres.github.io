@@ -49,6 +49,9 @@ Examples with acoustic and elastic media. Imaging/plane wave CIGs coming soon!
 A simple implementation of frequency-wavenumber filtering to get rid of strong backscattering noise present in RTM sections.  
 ![](images/rtm_backs-1.png){width=100%}
 
+### [PhD thesis](resources/Torres_Kristian_D_202406_PhD.pdf){target="_blank"}
+Seismic reflectivity inversion using deep learning and model-based methods.
+![](images/depth_profile.png){width=100%}
 
 ### [Master's thesis (in Portuguese)](https://pantheon.ufrj.br/bitstream/11422/14079/1/KristianDavidTorresBautista-min.pdf){target="_blank"}
 Least-squares migration and full-waveform inversion in the time domain via adjoint-state methods.
