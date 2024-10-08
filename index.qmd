@@ -1,6 +1,6 @@
 ---
 title: "Kristian Torres Bautista"
-image: images/kristian_profile2.jpeg
+image: images/houston.jpeg
 resources: resources/KristianTorres_CV_Jan2024_long.pdf
 about:
     template: jolla

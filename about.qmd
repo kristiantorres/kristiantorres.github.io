@@ -16,7 +16,7 @@ My expertise includes:
 * Signal processing
 * HPC
 
-## Recent updates
+## Updates
 * Oct, 2024: Our abstract on Vector Reflectivity Inversion with Full-Wavefield LSRTM and Sparse Regularization was accepted as an oral talk at the [Third EAGE Conference on Seismic Inversion](https://eage.eventsair.com/QuickEventWebsitePortal/seismic-inversion-2024/tp/Agenda/AgendaItemDetail?id=76c1ddb4-cc41-4391-ac2e-b22cb3c68ee1) :it:
 
 * Aug, 2024: I joined DUG as a research geophysicist :man_technologist:
